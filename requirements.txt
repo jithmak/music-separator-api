@@ -1,0 +1,12 @@
+This file tells our server what Python libraries to install.
+
+fastapi
+uvicorn[standard]
+python-multipart
+
+The AI and audio libraries
+
+demucs
+torch
+torchaudio
+torchcodec

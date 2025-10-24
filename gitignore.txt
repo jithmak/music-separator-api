@@ -1,0 +1,18 @@
+This file tells Git what not to upload.
+
+Python cache
+
+pycache/
+
+Local virtual environment
+
+venv/
+
+Our temporary file folders
+
+uploads/
+separated_output/
+
+Mac-specific files
+
+.DS_Store
